@@ -16,3 +16,17 @@ img {
     display: block;
     margin: auto;
 }
+
+.work-harder {
+    color: green;
+}
+
+.no-allowance {
+    color: red;
+    text-align: center;
+}
+
+.ice-cream {
+    color: green;
+    text-align: center;
+}
